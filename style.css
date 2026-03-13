@@ -33,14 +33,19 @@ a:visited {
 }
 
 a:hover {
-  color: #f7a87a
+  color: #f7a87a;
+}
+
+a:active,
+ a:focus {
+  color: #c86a4d;
 }
 
 .borderd_text {
   -webkit-text-stroke: 2px #F7907C;
   font-size: 48px;
-  color: #F0BBA1
-  }
+  color: #F0BBA1;
+}
 
   html {
     background-color: #f3dcdd;
