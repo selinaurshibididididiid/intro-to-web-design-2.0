@@ -35,12 +35,12 @@ a:hover {
   color: rgb(38, 88, 134);
 }
 
-.bordered_text {
+.borderd_text {
   -webkit-text-stroke: 2px #F0BBA1;
   font-size: 48px;
   color: #F7907C;
   }
 
   html {
-    background-color: #eeb7b9;
+    background-color: #f3dcdd;
   }
