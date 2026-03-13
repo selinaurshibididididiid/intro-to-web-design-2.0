@@ -47,6 +47,10 @@ a:active,
   color: #F0BBA1;
 }
 
-  html {
-    background-color: #f3dcdd;
-  }
+html {
+  background-color: #f3dcdd;
+}
+
+h1 {
+  background-color: #f886cee0;
+}
