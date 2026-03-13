@@ -1,4 +1,28 @@
 #Shanghaihai {
   float: left;
-  margin-right: 100px;  
+  margin-right: 50px;  
+  width: 350px;  
+  height: 300px;
+}
+
+#FlagFootball {
+  float: right;
+  margin-left: 50px;  
+  width: 300px;  
+  height: 300px;
+}
+
+#DreamInstitute {
+  float: left;
+  margin-right: 50px;  
+  width: 350px;  
+  height: 300px;
+}
+
+
+
+a:link {
+  color: black;
+  text-decoration: none;
+  text-shadow: .5px .5px 1px #000000;
 }
