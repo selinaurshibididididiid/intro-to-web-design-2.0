@@ -19,8 +19,6 @@
   height: 300px;
 }
 
-
-
 a:link {
   color: rgb(228, 100, 68);
   text-decoration: none;
@@ -37,12 +35,12 @@ a:hover {
   color: rgb(38, 88, 134);
 }
 
-.brorderd_text {
+.bordered_text {
   -webkit-text-stroke: 2px #F0BBA1;
   font-size: 48px;
   color: #F7907C;
   }
 
   html {
-    background-color: #F0A1A3
+    background-color: #eeb7b9;
   }
