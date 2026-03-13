@@ -42,7 +42,7 @@ a:active,
 }
 
 .borderd_text {
-  -webkit-text-stroke: 2px #F7907C;
+  -webkit-text-stroke: 2px #f886cee0;
   font-size: 48px;
   color: #F0BBA1;
 }
@@ -51,20 +51,16 @@ body {
     margin: 0;
   }
 
-  html {
-    background-color: #f3dcdd;
-  }
-
-  header.page-header {
-    background: #f7c5b8;
-    padding: 2rem 1rem;
-  }
-
-  header.page-header h1,
-  header.page-header h2 {
-    margin: 0;
+html {
+  background-color: #f3dcdd;
 }
 
-h1 {
-  background-color: #f886cee0;
+header.page-header {
+  background: #f7c5b8;
+  padding: 2rem 1rem;
+}
+
+header.page-header h1,
+header.page-header h2 {
+  margin: 0;
 }
