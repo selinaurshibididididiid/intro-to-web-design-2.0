@@ -47,8 +47,22 @@ a:active,
   color: #F0BBA1;
 }
 
-html {
-  background-color: #f3dcdd;
+body {
+    margin: 0;
+  }
+
+  html {
+    background-color: #f3dcdd;
+  }
+
+  header.page-header {
+    background: #f7c5b8;
+    padding: 2rem 1rem;
+  }
+
+  header.page-header h1,
+  header.page-header h2 {
+    margin: 0;
 }
 
 h1 {
