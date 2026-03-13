@@ -32,3 +32,13 @@ a:visited {
   text-decoration: none;
   text-shadow: .5px .5px 1px #8a1b39;
 }
+
+a:hover {
+  color: rgb(38, 88, 134);
+}
+
+.brorderd_text {
+  -webkit-text-stroke: 2px #F0BBA1;
+  font-size: 48px;
+  color: #F7907C;
+  }
