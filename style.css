@@ -20,7 +20,7 @@
 }
 
 
-a:visited {
+a:link {
   color: #F0AEA1;
   text-decoration: none;
   text-shadow: .5px .5px 1px #f0c4a0;
