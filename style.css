@@ -45,6 +45,12 @@ a:active,
   -webkit-text-stroke: 2px #f886cee0;
   font-size: 48px;
   color: #f7907c;
+  text-shadow:
+    0 0 5px #f886cee0,
+    0 0 10px #f886cee0,
+    0 0 20px #f886cee0,
+    0 0 40px #f886cee0,
+    0 0 80px #f886cee0;
 }
 
 body {
