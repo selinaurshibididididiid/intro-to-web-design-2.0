@@ -19,26 +19,27 @@
   height: 300px;
 }
 
-a:link {
-  color: rgb(228, 100, 68);
+
+a:visited {
+  color: #F0AEA1;
   text-decoration: none;
-  text-shadow: .5px .5px 1px #a14a22;
+  text-shadow: .5px .5px 1px #f0c4a0;
 }
 
 a:visited {
-  color: rgb(216, 46, 83);
+  color: #F0AEA1;
   text-decoration: none;
-  text-shadow: .5px .5px 1px #8a1b39;
+  text-shadow: .5px .5px 1px #f0c4a0;
 }
 
 a:hover {
-  color: rgb(38, 88, 134);
+  color: #f7a87a
 }
 
 .borderd_text {
-  -webkit-text-stroke: 2px #F0BBA1;
+  -webkit-text-stroke: 2px #F7907C;
   font-size: 48px;
-  color: #F7907C;
+  color: #F0BBA1
   }
 
   html {
