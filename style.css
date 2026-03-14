@@ -43,7 +43,7 @@ a:active,
   color: #c86a4d;
 }
 
-.borderd_text {
+.bordered_text {
   -webkit-text-stroke: 2px #f886cee0;
   font-size: 48px;
   color: #f3846e;
@@ -74,9 +74,8 @@ header.page-header h2 {
 }
 
 .bordered_image {
-  border: 5px solid #f7c5b8;
+  border: 5px dashed #f7c5b8;
   border-radius: 20px;
-  border-style: dashed;
 }
 
 h3{
@@ -104,10 +103,15 @@ h3{
   #DreamInstitute {
     float: none;
     width: 100%;
-    margin: 0;
+    height: auto;
+    margin: 10px 0;
 }
 }
 
 @media (max-width: 480px) {
   .container { width: 100%; }
+}
+
+.content-section {
+  margin-bottom: 40px;
 }
