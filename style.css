@@ -79,3 +79,35 @@ header.page-header h2 {
   border-style: dashed;
 }
 
+h3{
+  color: #f065bd;
+  text-shadow: 2px 2px 4px #ab548b;
+  font-size: 30px;
+  padding: 5px;
+  clear:both;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+@media (max-width: 1024px) {
+  .container { width: 700px; }
+}
+
+@media (max-width: 768px) {
+  .container { width: 400px; }
+  #Shanghaihai,
+  #FlagFootball,
+  #DreamInstitute {
+    float: none;
+    width: 100%;
+    margin: 0;
+}
+}
+
+@media (max-width: 480px) {
+  .container { width: 100%; }
+}
