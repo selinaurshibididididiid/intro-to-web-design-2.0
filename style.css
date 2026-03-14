@@ -21,19 +21,21 @@
 
 
 a:link {
-  color: #F0AEA1;
+  color: #f065bd;
   text-decoration: none;
-  text-shadow: .5px .5px 1px #f0c4a0;
+  text-shadow: 1px 1px 2px #ab548b;
 }
 
 a:visited {
   color: #A0786F;
   text-decoration: none;
-  text-shadow: .5px .5px 1px #f0c4a0;
+  text-shadow: 1px 1px 2px #624d48; 
 }
 
 a:hover {
   color: #f7a87a;
+  text-decoration: none;
+  text-shadow: 1px 1px 2px #c78660
 }
 
 a:active,
@@ -70,3 +72,10 @@ header.page-header h1,
 header.page-header h2 {
   margin: 0;
 }
+
+.bordered_image {
+  border: 5px solid #f7c5b8;
+  border-radius: 20px;
+  border-style: dashed;
+}
+
